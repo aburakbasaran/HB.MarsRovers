@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{5310EC2A-07CD-4B13-ADF0-845B9EA06BF0}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Hepsiburada Case Study_Mars Rover (2).docx = ..\..\..\Desktop\Hepsiburada Case Study_Mars Rover (2).docx
+		..\..\..\Desktop\HB.MarsRovers-master\HB.MarsRovers-master\Hepsiburada Case Study_Mars Rover (2).docx = ..\..\..\Desktop\HB.MarsRovers-master\HB.MarsRovers-master\Hepsiburada Case Study_Mars Rover (2).docx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{8FB07124-E1AF-46EB-BCAC-EDA74A02B3B8}"
@@ -30,9 +30,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRovers.Contracts", "Mar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRovers.Domain", "MarsRovers.Domain\MarsRovers.Domain.csproj", "{D9F2DA56-E12C-43BA-A8BB-681C591F89B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.Domain.Test", "MarsRovers.Domain.Test\MarsRovers.Domain.Test.csproj", "{48F2C381-6180-489B-99B1-0D848FC540CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRovers.Domain.Test", "MarsRovers.Domain.Test\MarsRovers.Domain.Test.csproj", "{48F2C381-6180-489B-99B1-0D848FC540CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRovers.Application.Test", "MarsRovers.Application.Test\MarsRovers.Application.Test.csproj", "{2C67D6DF-4CEA-4693-8715-30BD0B19278E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRovers.Application.Test", "MarsRovers.Application.Test\MarsRovers.Application.Test.csproj", "{2C67D6DF-4CEA-4693-8715-30BD0B19278E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
